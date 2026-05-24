@@ -86,15 +86,6 @@ This project analyzes historical data to uncover **inefficiencies and growth opp
 
 
 
-##  Future Enhancements  
-
--  Sales forecasting using **Time Series / Machine Learning**  
--  Interactive dashboards using **Power BI / Streamlit**  
--  Regional analysis using **GIS techniques**  
--  Customer segmentation using **clustering algorithms**
-
-
-
 ##  Project Structure  
 ├── e commerce sales .ipynb
 ├── dataset.csv
