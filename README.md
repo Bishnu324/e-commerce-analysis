@@ -107,5 +107,4 @@ This project analyzes historical data to uncover **inefficiencies and growth opp
 This project demonstrates the ability to:
 - Convert raw data into **actionable insights**  
 - Use **Python-based analytical tools effectively**  
-- Apply **business-oriented thinking in analysis**  
-- Communicate results through **clear visual storytelling**
+
